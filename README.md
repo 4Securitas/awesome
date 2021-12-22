@@ -6,6 +6,9 @@
 ## Docker
 - [portainer](https://github.com/portainer/portainer) - lightweight ‘universal’ management GUI that can be used to easily manage Docker, Swarm, Kubernetes and ACI environments.
 
+## Terraform
+- [lxc](https://registry.terraform.io/providers/Telmate/proxmox/latest/docs/resources/lxc)
+
 ## pyPentesting
 - [fsociety](https://github.com/Manisso/fsociety)
 - [Nettacker](https://github.com/OWASP/Nettacker)
