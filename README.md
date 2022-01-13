@@ -21,6 +21,9 @@
 
 ## Detector 
 - [Attack Monitor](https://github.com/yarox24/attack_monitor) - Attack Monitor is Python application written to enhance security monitoring capabilites of Windows 7/2008 (and all later versions) 
-
+- [fibratus](https://github.com/rabbitstack/fibratus) -  A modern tool for the Windows kernel exploration and tracing 
 ## Evasion
 - [mortar](https://github.com/0xsp-SRD/mortar)
+
+## AI / ML 
+- [Adversarial Robustness Toolbox]( https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security
