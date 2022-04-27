@@ -26,4 +26,13 @@
 - [mortar](https://github.com/0xsp-SRD/mortar)
 
 ## AI / ML 
-- [Adversarial Robustness Toolbox]( https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security
+
+## Cloud compliance 
+- [AWS Compliance Scanning Tool]( https://github.com/turbot/steampipe-mod-aws-compliance) 
+
+## Attack testing 
+- [EVTX- Attack sample](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) 
+
+## Threat Analysis
+- [Safer wall](https://github.com/saferwall/saferwall) 
