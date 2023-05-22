@@ -36,3 +36,6 @@
 
 ## Threat Analysis
 - [Safer wall](https://github.com/saferwall/saferwall) 
+
+## OSquery 
+- [Fleet](https://github.com/fleetdm/fleet) Open-source posture management for computes and computers. 
