@@ -22,6 +22,7 @@
 ## Detector 
 - [Attack Monitor](https://github.com/yarox24/attack_monitor) - Attack Monitor is Python application written to enhance security monitoring capabilites of Windows 7/2008 (and all later versions) 
 - [fibratus](https://github.com/rabbitstack/fibratus) -  A modern tool for the Windows kernel exploration and tracing 
+
 ## Evasion
 - [mortar](https://github.com/0xsp-SRD/mortar)
 
@@ -49,3 +50,10 @@
 ## AD SECURITY 
 - [BLOODHOUND](https://github.com/BloodHoundAD/BloodHound) BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory
 - [PlumHound](https://github.com/PlumHound/PlumHound) PlumHound operates by wrapping BloodHoundAD's powerhouse graphical Neo4J backend cypher queries into operations-consumable reports
+
+## Schema
+- [Elsatic Common Schema](https://www.elastic.co/guide/en/ecs/current/index.html)
+- [Open Cybersecurity Schema Framework](https://schema.ocsf.io/)
+
+## Observability
+- [Vector](https://vector.dev/)
