@@ -28,8 +28,11 @@
 ## AI / ML 
 - [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security
 
-## Cloud compliance 
+## Cloud  
 - [AWS Compliance Scanning Tool]( https://github.com/turbot/steampipe-mod-aws-compliance) 
+- [ZEUS-CLOUD](https://www.zeuscloud.io/) Cloud Security Platform 
+- [Cartograph](https://github.com/lyft/cartography) Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph.
+- [Hammer](https://sematext.com/blog/docker-elasticsearch-swarm/) 
 
 ## Attack testing 
 - [EVTX- Attack sample](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) 
@@ -37,5 +40,11 @@
 ## Threat Analysis
 - [Safer wall](https://github.com/saferwall/saferwall) 
 
-## OSquery 
+## Os-query 
 - [Fleet](https://github.com/fleetdm/fleet) Open-source posture management for computes and computers. 
+
+## SOAR 
+- [SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
+
+## AD SECURITY 
+- [BLOODHOUND](https://github.com/BloodHoundAD/BloodHound) BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory
