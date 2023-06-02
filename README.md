@@ -52,8 +52,8 @@
 - [PlumHound](https://github.com/PlumHound/PlumHound) PlumHound operates by wrapping BloodHoundAD's powerhouse graphical Neo4J backend cypher queries into operations-consumable reports
 
 ## Schema
-- [Elsatic Common Schema](https://www.elastic.co/guide/en/ecs/current/index.html)
-- [Open Cybersecurity Schema Framework](https://schema.ocsf.io/)
+- [Elsatic Common Schema](https://www.elastic.co/guide/en/ecs/current/index.html) ECS defines a common set of fields to be used when storing event data in Elasticsearch\Opensearch, such as logs and metrics
+- [Open Cybersecurity Schema Framework](https://schema.ocsf.io/) The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema.
 
 ## Observability
-- [Vector](https://vector.dev/)
+- [Vector](https://vector.dev/) Collect, transform, and route all your logs and metrics with one simple tool.
